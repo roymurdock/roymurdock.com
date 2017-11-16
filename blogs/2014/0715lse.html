@@ -4,39 +4,12 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="Description" content="Personal blog of Roy Murdock, featuring essays and photographs. Topics are macroeconomics, finance, and technology.">
-
-<link rel="stylesheet" href="http://roymurdock.com/main.css" type="text/css">
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
-<script type="text/javascript" src="http://roymurdock.com/randompage.js"></script>
-
-<script type="text/javascript" src="http://roymurdock.com/footnotes.js"></script>
-
-<title>Roy Murdock</title>
-
-</head>
 
 <body>
 
-<div id="body">
-
-<div id="content-container" class="module">
-
-<div id="content">
-
-<!-- Title-->
-<div id="header">
-	<span id="name">roy murdock</span>
-</div>
-
-<!-- Nav -->
-<p><a href="http://roymurdock.com/index.html">[index]</a>&nbsp;<a href="javascript:go()">[random post]</a>
-
-<hr>
+<?php include ($_SERVER["DOCUMENT_ROOT"]."/includes/header.php"); ?>
 
 <!-- Content -->
 
@@ -68,7 +41,7 @@
 
 <p>Let’s review the objective differences in the grading scale before I defend my opinions. The highest grade in the UK system, a first, requires a score of 70% or above. Equivalently, a 70% in the states is a C-/D+. Failing grades are 59% and 39% in the US and UK respectively. While the size of the range of passing grades is generally similar (40-70% in the UK vs. 60-100% in the US), there is a large discrepancy at the top of the scale, where it comes to the recognition of excellence. In the UK, raw percentages are converted into titles (first, 2.1, etc). In the US, raw percentages are converted to letter grades, which are then converted into a GPA (A = 4.0, B = 3.3, etc).</p>
 
-<p><img src="0715graderange.png" title="graderange" alt="graderange" /></p>
+<p><img src="0715graderange.png" title="graderange" alt="graderange" width="400px" /></p>
 
 <p>The UK has a large range of success (above 70%) whereas the US system has a large range of failure (below 60%).</p>
 
@@ -125,7 +98,7 @@
 
 <p><img src="0715usdistribution.jpg" title="us grade inflation" alt="USgradeinflation" /></p>
 
-<p>Source: http://www.gradeinflation.com/</p>
+<p class="caption">Source: http://www.gradeinflation.com/</p>
 
 <p>Assuming you are well prepared and the exam is fairly written, bad luck should not drop you from a first to a fail. It should mean the difference between a first and a 2.1.</p>
 
@@ -156,7 +129,7 @@
 
 <p><img src="0715lseresults.png" title="lseresults" alt="lseresults" /></p>
 
-<p>LSE Exam Results: No 100% grades awarded.</p>
+<p class="caption">LSE Exam Results: No 100% grades awarded.</p>
 
 <p>By requiring “A” students to score 90-100% the US system can often (unintentionally?) reward mediocrity. A system that makes “perfect” attainable and “near perfect” expected of an A student removes any incentive to reach outside the scope of the exam. Expectations of what a student can and should be able to know, recite, and synthesize on an exam are lower. Lower expectations lead to lower achievement.</p>
 
@@ -217,14 +190,12 @@
 </ol>
 </div>
 
-</div></div>
-
-</body>
-
 <!-- Footer -->
 
-<footer>
+<hr>
 
-<p><a href="http://roymurdock.com/index.html">[index]</a>&nbsp;<a href="javascript:go()">[random post]</a></p>
+<?php include ($_SERVER["DOCUMENT_ROOT"].'/includes/footer.php'); ?>
+
+</body>
 
 </html>

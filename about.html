@@ -4,41 +4,14 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="Description" content="Personal blog of Roy Murdock, featuring essays and photographs. Topics are macroeconomics, finance, and technology.">
 
-<link rel="stylesheet" href="http://roymurdock.com/main.css" type="text/css">
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
-<script type="text/javascript" src="http://roymurdock.com/randompage.js"></script>
-
-<title>Roy Murdock</title>
-
-</head>
-
 <body>
 
-<div id="body">
-
-<div id="content-container" class="module">
-
-<div id="content">
-
-<!-- Title-->
-<div id="header">
-	<span id="name">roy murdock</span>
-</div>
-
-<!-- Nav -->
-<p><a href="http://roymurdock.com/index.html">[index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="http://roymurdock.com/about.html">[about]</a>
-
-<hr>
+<?php include ($_SERVER["DOCUMENT_ROOT"]."/includes/header.php"); ?>
 
 <!-- Content -->
-
-<body>
 
 <p><img src="blackandwhite.jpg" title="Explanations" alt="Explanations" /></p>
 
@@ -67,14 +40,12 @@
 
 <!--End mc_embed_signup-->
 
-</div></div>
-
-</body>
-
 <!-- Footer -->
 
-<footer>
+<hr>
 
-<p><a href="http://roymurdock.com/index.html">[index]</a>&nbsp;<a href="javascript:go()">[random post]</a></p>
+<?php include ($_SERVER["DOCUMENT_ROOT"]."/includes/footer.php"); ?>
+
+</body>
 
 </html>

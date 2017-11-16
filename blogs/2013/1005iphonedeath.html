@@ -4,39 +4,12 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="Description" content="Personal blog of Roy Murdock, featuring essays and photographs. Topics are macroeconomics, finance, and technology.">
-
-<link rel="stylesheet" href="http://roymurdock.com/main.css" type="text/css">
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
-<script type="text/javascript" src="http://roymurdock.com/randompage.js"></script>
-
-<script type="text/javascript" src="http://roymurdock.com/footnotes.js"></script>
-
-<title>Roy Murdock</title>
-
-</head>
 
 <body>
 
-<div id="body">
-
-<div id="content-container" class="module">
-
-<div id="content">
-
-<!-- Title-->
-<div id="header">
-	<span id="name">roy murdock</span>
-</div>
-
-<!-- Nav -->
-<p><a href="http://roymurdock.com/index.html">[index]</a>&nbsp;<a href="javascript:go()">[random post]</a>
-
-<hr>
+<?php include ($_SERVER["DOCUMENT_ROOT"]."/includes/header.php"); ?>
 
 <!-- Content -->
 
@@ -71,7 +44,7 @@
 <p>Apple used great marketing to get the iPhone into the hands of consumers, but it was the <strong>curation of the experience</strong> that created the WOW situation for their happy customers. Take for example the first gen iPhone ads: They promised a seamless browsing experience that would give you the essentials: music, videos, email, photos, maps, and the internet.</p>
 
 
-<iframe width="720" height="400" src="https://youtube.com/embed/0lfmlKYZ-vU?autoplay=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="400" src="https://www.youtube.com/embed/6lZMr-ZfoE4?autoplay=0" frameborder="0" allowfullscreen></iframe>
 
 
 <p>Then they delivered on their promises. And then a curious thing happened: you found out that you could write yourself notes, effortlessly sync your phone with your computer, monitor the stock market, get weather updates, yelp for food, fatface your friends, and most importantly, play Fruit Ninja. You wondered how they could forget to include these amazing services on their commercials, chuckling to yourself as you posted another embarrassing photo of your friends to Facebook. The fact is that they didn’t forget to tell you anything. They left it up to you to discover the beautiful world of applications. Meanwhile, the phone did exactly what you had come to expect from the brilliant, minimal ad campaign. These were the ingredients of the WOW situation.</p>
@@ -125,14 +98,12 @@
 </ol>
 </div>
 
-</div></div>
-
-</body>
-
 <!-- Footer -->
 
-<footer>
+<hr>
 
-<p><a href="http://roymurdock.com/index.html">[index]</a>&nbsp;<a href="javascript:go()">[random post]</a></p>
+<?php include ($_SERVER["DOCUMENT_ROOT"].'/includes/footer.php'); ?>
+
+</body>
 
 </html>

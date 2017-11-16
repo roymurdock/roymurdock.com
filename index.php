@@ -4,51 +4,12 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="Description" content="Personal blog of Roy Murdock, featuring essays and photographs. Topics are macroeconomics, finance, and technology.">
-
-<link rel="stylesheet" href="/main.css" type="text/css">
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
-<script type="text/javascript" src="http://roymurdock.com/randompage.js"></script>
-
-<script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
-
-<title>Roy Murdock</title>
-
-</head>
 
 <body>
 
-<div id="body">
-
-<div id="content-container" class="module">
-
-<div id="content">
-
-<!-- Title-->
-<div id="header">
-	<span id="name"><a href="/">roy murdock</a><img class="top" src="gifs/search.gif" style="float:right;width:42px;length:43px;" /></span>
-</div>
-
-<!-- Nav -->
-<p><a href="/index.html">[index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about.html">[about]</a>&nbsp;<a href="/otherstuff.html">[other stuff]</a>
-
-<!-- Custom Google Search Bar -->
-<script>
-  (function() {
-    var cx = '007309113690805798785:7dqa1uotvws';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
-<hr>
+<?php include ($_SERVER["DOCUMENT_ROOT"]."/includes/header.php"); ?>
 
 <!-- Content -->
 
@@ -76,8 +37,11 @@
 
 <p>09.24.13 | <a href="blogs/2013/0924iphone5s.html">How Useful is the iPhone 5s?</a></p>
 
+<!-- Footer -->
 
 <hr>
+
+<?php include ($_SERVER["DOCUMENT_ROOT"]."/includes/footer.php"); ?>
 
 </body>
 
