@@ -1,0 +1,23 @@
+{
+  "name": "rmcom",
+  "version": "1.0.0",
+  "description": "README.md# roymurdock.com",
+  "main": "footnotes.js",
+  "dependencies": {
+    "masonry-layout": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roymurdock/roymurdock.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roymurdock/roymurdock.com/issues"
+  },
+  "homepage": "https://github.com/roymurdock/roymurdock.com#readme"
+}

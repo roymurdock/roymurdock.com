@@ -4,7 +4,7 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width">
 <meta name="Description" content="Personal blog of Roy Murdock, featuring essays and photographs. Topics are macroeconomics, finance, and technology.">
 
 <body>
