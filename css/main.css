@@ -1,0 +1,344 @@
+/* =============================================================================
+   Links
+   ========================================================================== */
+
+a { color: #00e; }
+a:visited { color: #551a8b; }
+a:hover { color: #06e; }
+a:focus { outline: thin dotted; }
+a:hover, a:active { outline: 0; }
+
+/* =============================================================================
+   Typography
+   ========================================================================== */
+
+@font-face {font-family: Equity; 
+  src: url('fonts/textregular.woff') format('woff'); }
+@font-face {font-family: Equity; font-weight: bold;
+  src: url('fonts/textbold.woff') format('woff'); }
+@font-face {font-family: Equity; font-style: italic;
+  src: url('fonts/textitalic.woff') format('woff'); }
+@font-face {font-family: Equity; font-weight: bold; font-style: italic;
+  src: url('fonts/textbolditalic.woff') format('woff'); }
+
+@font-face {font-family: EquityCaps; 
+  src: url('fonts/capsregular.woff') format('woff'); }
+@font-face {font-family: EquityCaps; font-weight: bold;
+  src: url('fonts/capsbold.woff') format('woff'); }
+
+/* =============================================================================
+   Spacing
+   ========================================================================== */
+
+body {
+  background-color: #383838;
+  font-size: 1.1em;
+  font-family: Equity;
+  line-height: 1.5em;
+  color: #333333;
+}
+
+footer {
+  width: 720px ;
+  background: white ;
+  margin-left: auto ;
+  margin-right: auto ;
+  padding-left: 2em ;
+  padding-right: 2em ;
+}
+
+div.module {
+  width: 720px ;
+  background: white ;
+  margin-left: auto ;
+  margin-right: auto ;
+  margin-bottom: 1em ;
+  padding: 1em ;
+  padding-left: 2em ;
+  padding-right: 2em ;
+}
+
+h1,h2 {
+  line-height:1.2em;
+}
+
+h2 {
+  font-family: EquityCaps;
+}
+
+h3 {
+	line-height:1em;
+	font-family: EquityCaps;
+}
+
+li {
+  margin-top: 0.2em;
+  margin-bottom: 0.4em; 
+}
+
+blockquote {
+  color: gray;
+  font-style: italic;
+  border-left: 1px solid gray;
+  padding-left: 10px;
+  margin-left: 40px;
+}
+
+sup{
+  line-height: 0px;
+}
+
+img{
+  max-width: 720px;
+  padding-top: 1em;
+  display: block;
+  margin: 0 auto;
+}
+
+img.top{
+  padding-top: 0em;
+}
+
+p.pnumber {
+  text-align: center;
+}
+
+p.caption {
+  text-align: center;
+  font-style: italic;
+  padding-bottom: 1em;
+}
+
+div#header {
+  width: 530px;
+  height: 40px;
+}
+
+span#name {
+  font-size: 1.5em;
+  float: left;
+  color: #333333 !important;
+}
+
+div.img {
+  max-width: 600px;
+}
+
+/* =============================================================================
+   Customize Google Search Bar
+   ========================================================================== */
+
+.cse .gsc-control-cse,
+.gsc-control-cse {
+  padding: 0 !important;
+}
+
+table.gsc-search-box {
+    border-style: none;
+    border-width: 0;
+    border-spacing: 0 0;
+    width: 50% !important;
+    margin-bottom: 2px;
+    line-height: normal;
+}
+
+.gsc-input-box {
+  border: 1px solid #D9D9D9;
+  background: #fff;
+  height: 25px !important;
+}
+
+/* Search button */
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border-color: #666666;
+    background-color: #383838 !important;
+    background-image: none;
+    filter: none;
+}
+
+.cse .gsc-search-button input.gsc-search-button-v2,
+input.gsc-search-button-v2 {
+  width: 13px;
+  height: 13px;
+  padding: 6px 6px !important;
+  min-width: 13px;
+  margin: 0px !important;
+}
+
+td.gsc-search-button {
+  position: absolute;
+}
+
+/* =============================================================================
+   Masonry Edits
+   ========================================================================== */
+
+#content {
+  min-height:10%;
+  max-height:100%;
+  max-width: 100%;
+}
+
+
+.masonry-tile {
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    background-color: #000;
+}
+
+.masonry-tile .thumb-container {
+    position: relative;
+}
+
+.grid_box {
+  width: 100%;
+}
+
+.grid {
+    list-style: none;
+    text-align: center;
+}
+
+.grid li {
+    display: inline-block;
+    text-align: left;
+    position: relative;
+}
+
+.grid figure {
+    position: relative;
+    margin: 0px;
+}
+
+.grid figure img {
+    min-width: 100%;
+    display: block;
+    position: relative;
+}
+
+.grid figcaption {
+    font-size: 0.8em;
+    position: absolute;
+    left: 0;
+    padding: 5px;
+    background: #1f2739;
+    color: #bdbdbd;
+}
+
+.grid figcaption h3 {
+    font-size: 1em;
+    margin: 0 0 7px 0;
+    padding: 0;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.grid figcaption span:after {
+    content: ' photos';
+}
+
+.grid figcaption span {
+    padding: 0;
+    margin: 0;
+}
+
+.grid figcaption a {
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 2px;
+    padding: 5px 10px;
+    display: inline-block;
+    background: #3d4b6c;
+    color: #bdbdbd;
+    -moz-box-shadow: 3px 3px rgba(19,27,44,1);
+    -webkit-box-shadow: 3px 3px rgba(19,27,44,1);
+    box-shadow: 3px 3px rgba(19,27,44,1);
+    color: #fff;
+    text-decoration: none;
+}
+
+.grid figcaption a:hover {
+    transform: translate(2px,2px);
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.cs-style-3 figure {
+    overflow: hidden;
+}
+
+.cs-style-3 figure img {
+    transition: transform 0.4s;
+}
+
+.no-touch .cs-style-3 figure:hover img,.cs-style-3 figure.cs-hover img {
+    transform: translateY(-50px);
+}
+
+.cs-style-3 figcaption {
+    height: 30px;
+    width: 100%;
+    top: auto;
+    bottom: 33px;
+    opacity: 1;
+    transform: translateY(100%);
+    transition: transform 0.4s,opacity 0.1s 0.3s;
+}
+
+.no-touch .cs-style-3 figure:hover figcaption,.cs-style-3 figure.cs-hover figcaption {
+    opacity: 1;
+    transform: translateY(20px);
+    transition: transform 0.4s,opacity 0.1s;
+}
+
+.cs-style-3 figcaption a {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+
+/* =============================================================================
+   Responsive
+   ========================================================================== */
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+body {
+  font-size: 0.8em;
+}
+
+footer {
+  max-width: 80% ;
+}
+
+div.module {
+  max-width: 80% ;
+}
+
+img{
+  max-width: 80%;
+  padding-top: 1em;
+  display: block;
+  margin: 0 auto;
+}
+
+div#header {
+  max-width: 80%;
+}
+
+div.img {
+  max-width: 80%;
+}
+
+table.gsc-search-box {
+    width: 80% !important;
+}
+
+
+

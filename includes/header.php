@@ -1,12 +1,8 @@
-<link rel="stylesheet" href="/main.css" type="text/css">
+<link rel="stylesheet" href="/css/main.css" type="text/css">
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<link href="/css/featherlight.min.css" type="text/css" rel="stylesheet" title="Featherlight Styles"/>
 
-<script type="text/javascript" src="http://roymurdock.com/randompage.js"></script>
-
-<script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
-
-<script type="text/javascript" src="http://roymurdock.com/footnotes.js"></script>
+<link href="/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" title="Featherlight Styles"/>
 
 <title>Roy Murdock</title>
 
@@ -26,7 +22,7 @@
 </div>
 
 <!-- Nav -->
-<p><a href="/index.php">[blog index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.html">[about]</a>&nbsp;<a href="/photodump/photodump.html">&nbsp;<a href="otherstuff.html">[other stuff]</a>
+<p><a href="/index.php">[blog index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.html">[about]</a>&nbsp;<a href="/photodump/photodump.html">[photography]</a>&nbsp;<a href="otherstuff.html">[other stuff]</a>
 
 <!-- Custom Google Search Bar -->
 <script>
