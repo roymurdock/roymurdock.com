@@ -1,6 +1,6 @@
 <!-- Nav -->
 <p>
-<a href="/index.php">[blog index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.html">[about]</a>&nbsp;<a href="/photodump/photodump.html">[photography]</a>&nbsp;<a href="otherstuff.html">[other stuff]</a>
+<p><a href="/index.php">[blog index]</a>&nbsp;<a href="/photodump/photodump.html">[photo index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.html">[about]</a>&nbsp;<a href="/otherstuff.html">[other]</a>
 <img class="top" src="/gifs/camping.gif" style="float:right;width:100px;length:48px;" />
 <br>
 © Roy Murdock, All right reserved.
@@ -17,3 +17,7 @@
 <script type="text/javascript" src="/js/script.js"></script>
 
 <script type="text/javascript" src="/js/modernizr.custom.js"></script>
+
+<script type="text/javascript" src="/js/featherlight.min.js"></script>
+
+<script type="text/javascript" src="/js/featherlight.gallery.min.js"></script>

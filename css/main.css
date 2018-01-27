@@ -90,7 +90,6 @@ sup{
 
 img{
   max-width: 720px;
-  padding-top: 1em;
   display: block;
   margin: 0 auto;
 }
@@ -215,6 +214,8 @@ td.gsc-search-button {
     min-width: 100%;
     display: block;
     position: relative;
+    padding-top: 0em;
+    padding-bottom: 0em;
 }
 
 .grid figcaption {
@@ -280,7 +281,7 @@ td.gsc-search-button {
 }
 
 .cs-style-3 figcaption {
-    height: 30px;
+    height: 40px;
     width: 100%;
     top: auto;
     bottom: 33px;
@@ -291,7 +292,7 @@ td.gsc-search-button {
 
 .no-touch .cs-style-3 figure:hover figcaption,.cs-style-3 figure.cs-hover figcaption {
     opacity: 1;
-    transform: translateY(20px);
+    transform: translateY(33px);
     transition: transform 0.4s,opacity 0.1s;
 }
 
@@ -322,8 +323,7 @@ div.module {
 }
 
 img{
-  max-width: 80%;
-  padding-top: 1em;
+  max-width: 100%;
   display: block;
   margin: 0 auto;
 }
