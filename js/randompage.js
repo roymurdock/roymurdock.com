@@ -1,4 +1,4 @@
-var links = new Array(11)
+var links = new Array(13)
 
     links[0]="http://roymurdock.com/blogs/2013/0924iphone5s.html";
     links[1]="http://roymurdock.com/blogs/2013/1005iphonedeath.html";
@@ -12,9 +12,11 @@ var links = new Array(11)
     links[9]="http://roymurdock.com/blogs/2016/0115socrates.html";
     links[10]="http://roymurdock.com/blogs/2016/0731krugmanreview.html";
     links[11]="http://roymurdock.com/photodump/2015-07-london/2015-07-london.html";
+    links[12]="http://roymurdock.com/photodump/2015-12-acadia/2015-12-acadia.html"
+    links[13]="http://roymurdock.com/photodump/2014-06-jordan/2014-06-jordan.html"
 
 function go() { 
-var randomnumber = Math.round(Math.random()*12)
+var randomnumber = Math.round(Math.random()*13)
 location = links[randomnumber] 
 }
 
