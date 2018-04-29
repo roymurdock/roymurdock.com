@@ -1,6 +1,6 @@
 <!-- Nav -->
 <p>
-<p><a href="/index.php">[blog index]</a>&nbsp;<a href="/photodump/photodump.html">[photo index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.html">[about]</a>&nbsp;<a href="/quotes/quotes.html">[quotes]</a><a href="/otherstuff.html">[other]</a>
+<p><a href="/index.php">[blog index]</a>&nbsp;<a href="/photodump/photodump.html">[photo index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.html">[about]</a>&nbsp;<a href="/quotes/quotes.html">[quotes]</a>&nbsp;<a href="/otherstuff.html">[other]</a>
 <img class="top" src="/gifs/camping.gif" style="float:right;width:100px;length:48px;" />
 <br>
 © Roy Murdock, All right reserved.
