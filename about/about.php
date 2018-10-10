@@ -21,8 +21,6 @@
 
 <p><a href="mailto:roy@roymurdock.com">Contact</a></p>
 
-<p><a href="https://www.linkedin.com/in/roymurdock">LinkedIn</a></p>
-
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="//roymurdock.us3.list-manage.com/subscribe/post?u=30821cf78a425047d93376cc4&amp;id=5dfdbc2ee1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

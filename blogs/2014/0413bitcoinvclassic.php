@@ -28,10 +28,7 @@
 
 <p>I will examine our current political and societal state in regards to virtual currency in a future post.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>CLASSICAL ECONOMICS</h2>
 
@@ -62,10 +59,7 @@
 
 <p>Now that we have a matrix in place, let's begin our analysis in earnest by comparing the properties of the American Dollar and the bitcoin.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>ANALYSIS</h2>
 
@@ -170,10 +164,7 @@ Cattle and peanut butter exhibit low acceptability.</p>
 
 <p><em>bitcoin is uncounterfeitable, but it’s easier to steal large amounts of bitcoin than USD.</em></p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Summary</h2>
 

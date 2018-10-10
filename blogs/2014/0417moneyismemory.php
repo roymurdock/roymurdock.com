@@ -23,10 +23,7 @@
 
 <p>I will then present a use-case for the efficiency gains realized in a Bitcoin system, while addressing but not analyzing the ethical and political implications of a government version of Bitcoin.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Classical Ideas of Money</h2>
 
@@ -38,10 +35,7 @@
 
 <p>We need a new definition to work with.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>A New Definition of Money</h2>
 
@@ -73,10 +67,7 @@
 
 <p>Sound familiar? This is an exact definition of the blockchain, the backbone of Bitcoin and the innovation behind every virtual currency in existence today.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Cash Tokens vs. Digital Tokens</h2>
 
@@ -105,10 +96,7 @@ thus outspend the entire Bitcoin network for as long as it would remain a cartel
 we believe it is very unlikely that a cartel could double-spend enough to recover
 the cost of the attack.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p></blockquote>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Anonymity</h2>
 
@@ -122,10 +110,7 @@ the cost of the attack.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></s
 
 <p>Paper cash is also (99%) anonymous, so there isn’t much more incentive to pay your local drug dealer in cash than in BTC. It simply allowed geographically agnostic black markets to develop around drugs and "hitmen". These markets gained notoriety, which the media was quick to capitalize on. The general public now thinks of Bitcoin as a better way to buy drugs, when in fact it is much more than that.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>What if the Government Adopted Bitcoin?</h2>
 
@@ -135,10 +120,7 @@ the cost of the attack.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></s
 
 <p>Is it possible for the government to implement Bitcoin? Is a more efficient system socially acceptable? As the manufacture and spread of information becomes more efficient, how will society deal with the increasingly hard-to-ignore shadowy areas of drugs, prostitution, slavery, and corruption? Only time can tell.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>In Summary</h2>
 

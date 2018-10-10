@@ -31,10 +31,7 @@
 
 <p class="pnumber">[1/4]</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>EU vs. US</h2>
 
@@ -58,10 +55,7 @@
 
 <p class="pnumber">[2/4]</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Why was the outcome post-crisis so different for the US and Greece?</h2>
 
@@ -73,10 +67,7 @@
 
 <p class="pnumber">[3/4]</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Sometimes a Pig is just a Pig</h2>
 
@@ -99,10 +90,7 @@ Your browser does not support the video tag.
 
 <p class="pnumber">[4/4]</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Works Cited</h2>
 
@@ -188,10 +176,7 @@ Kashyap, Anil. “<a href="http://www.gpo.gov/fdsys/pkg/PLAW-110publ343/html/PLA
 
 </ol>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Footnotes</h2>
 

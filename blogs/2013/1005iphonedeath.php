@@ -25,11 +25,7 @@
 <li>Who is better equipped to meet these expectations? Apple or Google?</li>
 </ul>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
-
+<hr>
 
 <p>Apple has long been the champion of meeting (and exceeding) customer expectations. <strong>Curation</strong> was the tool that Steve Jobs and his talented team used to create the iPhone empire. Users were presented a smooth, easy way to interact with a new and useful technology. Users didn’t care that they were unable to customize their phones because the phone performed 99% percent of the tasks they needed and demanded. Technicalities were kept hidden away behind a curtain, allowing users to do these necessary tasks in a distraction and bug free environment: making calls, sending texts, browsing the web, taking pictures, listening to music, and using apps (also tightly controlled by Apple) were all easy and pain-free interactions with the iPhone.</p>
 
@@ -49,10 +45,7 @@
 
 <p>Then they delivered on their promises. And then a curious thing happened: you found out that you could write yourself notes, effortlessly sync your phone with your computer, monitor the stock market, get weather updates, yelp for food, fatface your friends, and most importantly, play Fruit Ninja. You wondered how they could forget to include these amazing services on their commercials, chuckling to yourself as you posted another embarrassing photo of your friends to Facebook. The fact is that they didn’t forget to tell you anything. They left it up to you to discover the beautiful world of applications. Meanwhile, the phone did exactly what you had come to expect from the brilliant, minimal ad campaign. These were the ingredients of the WOW situation.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <p>The numbers don’t lie: Apple’s status as the <a href="http://appleinsider.com/articles/13/08/01/apple-inc-retakes-title-as-worlds-most-valuable-company-following-strong-july">most valuable company in the world</a> is due largely in part to its iPhone business which, as of Q2 2013, still brings in <a href="http://betanews.com/wp-content/uploads/2013/04/Apple-fiscal-Q2-2013-chart.png" target="_blank">~50% of Apple’s total revenue</a>. No amount of marketing panache could create a facade large enough to cover up a bad product year after year, let alone create such an explosive and continual growth in sales. It’s simply ridiculous to propose that Apple has become the world’s most valuable company off of ignorance and the need for conformity. The Android fanboys can beat their chests and howl all they want; it doesn’t change the fact that the iPhone is an extremely solid device.</p>
 
@@ -68,10 +61,7 @@
 
 <p>Short answer: It can’t.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <p>Apple doesn’t have the framework in place to know you as well as Google does. Everybody uses some combination of these apps daily: Google search, Gmail, YouTube, Google Drive, and Google Maps. Don’t know how to cook that chicken curry you’ve been craving? Google it, then watch a Youtube video. Don’t know the best way to get to that concert tonight? Google Maps it, then print out those tickets you’ve saved in Gmail. If I was able to look at all of the searches you’ve executed, places you’ve visited, videos you’ve watched, and emails you’ve sent, I would have a pretty good picture of you as a person. This is the view that Google gets into your life. Google Now is their attempt to build you a friend/personal assistant who has access to all of this information.</p>
 
@@ -83,10 +73,7 @@
 
 <p>Maybe Apple would’ve been better off if they hadn’t introduced Siri back with the iPhone 4s - it seems like they’ve hit on an ever-increasing pocket of demand that they aren’t equipped to handle. Responsive technology is great, but Google Now is already combining the responsive with the predictive in a dynamic and truly useful application. I see an unlimited amount of potential buried under Google’s goldmine of data. I see a dead end for Siri and the iPhone.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Footnotes</h2>
 

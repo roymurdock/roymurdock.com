@@ -15,7 +15,7 @@
 
 <h2> blog index </h2>
 
-<p>07.31.16 | <a href="blogs/2016/0731krugmanreview.html">Review of Paul Krugman's <i>The Age of Diminished Expectations</i> (1997)</a></p>
+<p>07.31.16 | <a href="blogs/2016/0731krugmanreview.php">Review of Paul Krugman's <i>The Age of Diminished Expectations</i> (1997)</a></p>
 
 <p>01.15.16 | <a href="blogs/2016/0115socrates.html">Socrates & The Social Contract</a></p>
 

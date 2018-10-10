@@ -16,6 +16,11 @@
 <h2> quotes, verse, doggerel </h2>
 
 <hr>
+
+<p>If I am not for myself, who will be for me? But if I am only for myself, who am I? If not now, when?<br/>
+<b>- Hillel, Ethics of the Fathers, 1:14</b>
+<hr>
+
 <p>All other trades are contained in that of war.<br/><br/>
 Is that why war endures?<br/><br/>
 No. It endures because young men love it and old men love it in them. Those that fought, those that did not.<br/><br/>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html class="no-js" lang="en">
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width">
 <meta name="Description" content="Personal blog of Roy Murdock, featuring essays and photographs. Topics are macroeconomics, finance, and technology.">
 
 <body>
@@ -28,10 +28,7 @@
 
 <p>I read the Third Edition, released in 1997, because I had read some of Krugman’s “Conscience of a Liberal” columns in the New York Times and wanted to get an overview of his earlier thinking that might be unavailable or obscured in academic format.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Key Driver 1 - Productivity</h2>
 
@@ -41,10 +38,7 @@
 
 <p>So what can we do to fix productivity growth if energy prices, deregulation, and (meager) technological subsidies aren’t working? Krugman says the answer is simple: “suffer”. Consume less now, invest more resources in capital for workers and education for children. At the policy level, this translates into a few low-risk political solutions: the federal government can encourage higher educational standards and support industry research consortia. But ultimately he concludes that fixing productivity, the most important factor that almost singlehandedly determines standard of living, is “not a policy issue, because we are not going to do anything about it.” Bummer!</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Key Driver 2 - Income Distribution</h2>
 
@@ -62,10 +56,7 @@
 
 <p>Krugman concludes that, like productivity, income distribution “is a policy issue with little prospect for serious policy action. The growing gap between rich and poor is arguably the central fact about economic life in America. But no policy changes now under discussion seem likely to do much to narrow this gap.” Very prescient.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Employment, Other Odds &amp; Ends</h2>
 
@@ -79,10 +70,7 @@
 
 <p class="caption">Source: <a href="http://www.bls.gov/home.htm">BLS.</a></p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Takeaways</h2>
 
@@ -90,10 +78,7 @@
 
 <blockquote><p>Any serious effort to increase productivity growth, or to reverse the sharp increase in income inequality, or to restructure our labor markets to get closer to true full employment, would take a degree of boldness that is rare in economic policy. Attempts to change the economic system in a fundamental way, like Franklin Roosevelt’s (or Ronald Reagan’s), occur only in the face of economic crisis.</p></blockquote>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Omission? Technological Drivers of Productivity</h2>
 
@@ -107,10 +92,7 @@
 
 <p>He tacitly acknowledges the importance of technological inputs to productivity growth, but he does not devote any more time or attention to them. Perhaps it is this shortcoming that led him to posit in 1998 that “by 2005 or so, it will become clear that the Internet’s impact on the economy has been no greater than the fax machine’s”. While I consider myself a technology optimist, it is hard to see what the next big TFP-boosting breakthrough might be: virtual reality? Self-driving cars? CRISPR gene selection and revision? I guess that’s the point though – nobody really knows until it happens and takes the world by storm.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Conclusion</h2>
 

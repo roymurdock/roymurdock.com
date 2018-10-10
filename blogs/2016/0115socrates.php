@@ -13,7 +13,7 @@
 
 <!-- Content -->
 
-<h1>Socrates, Wanderlust, and the Social Contract</h1>
+<h1>Socrates, Travel, and the Social Contract</h1>
 
 <p><img src="0115socratescoversmall.jpg" title="death of socrates" alt="deathofsocrates" width="720px" /></p>
 
@@ -23,10 +23,7 @@
 
 <p>Up until recently, I believed that my desire to travel was fueled by the typical wanderlust or ennui of the idealistic and immortal 20-something. The romantic notions of “exploring different cultures,” “increasing my empathy,” and “roughing it” became an easy way for me to justify my desire to explore the world outside of the US. It was fun to imagine myself completely lost in some jungle in Chile with nothing but a backpack, a change of clothes, 100 dollars, and a limited Spanish vocabulary at my disposal: the perfect ingredients for an adventure. Trekking would be a fitting way to gather up the time that leaked ever more rapidly from an infinite horizon, sifting its sands into discrete, country-shaped bottles to be cataloged on a shelf after collection and retrieved later in life during times of thirst.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <p>The other day I found a different way to look at my wanderlust. I was reading <cite>The Last Days of Socrates</cite> by Plato, translated by Hugh Tredennick. It details the trial, conviction, and execution of Socrates in 399BC. A self-described “gadfly,” Socrates would often engage in dialectics, or pointed conversations, with those who believed themselves to be wise. He embarrassed and enraged many members of the Athenian aristocracy, but his ultimate objective was not malicious. He was simply puzzled by the Delphic Oracle’s divine proclamation that he (Socrates) was the wisest man alive.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> He states this in his appeal to the jury, which was made up largely of the men who he had annoyed:</p>
 
@@ -40,10 +37,7 @@
 
 <p>Through this logic, Socrates determines that he must decline Crito’s offer of escape and remain in his cell, awaiting execution. After enjoying the benefits and protections of the state, Socrates would be “one of the most guilty” citizens of Athens if he were to break the law for his own selfish purposes. He had a hand, however small, in shaping the laws and the constitution that had condemned him, and could have moved at any time had he found Athens wanting. Socrates would find justice only in death.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>The Social Contract</h2>
 
@@ -53,10 +47,7 @@
 
 <p>According to most societies, we are able to enter into this contract upon our 18th birthday.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> This is known as the <strong>age of majority</strong>, or the legal threshold at which “minors cease to legally be considered children and assume control over their persons, actions, and decisions.” This is not to be confused with the age of sexual consent, drinking, driving, smoking, etc. – it is simply the age at which a minor becomes a major; a mature and self conscious adult. The premise that most 18 year olds can make rational and well-informed decisions without the help of a parent or guardian is debatable, but the US sees it as reasonable and just for them to join the army, to emancipate themselves, and to enter the workforce of their own volition at this age. I will refer to this phenomenon as Socrates does, as the <strong>attainment of manhood</strong>.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>The Problem</h2>
 
@@ -68,10 +59,7 @@
 
 <p>Once you start to pay taxes you also begin to question how your money is being spent by the state. Are the police truly looking out for my best interests and protection? Do I agree with my country’s gun, abortion, capital punishment, medical, property, business, and tax laws? Do I trust the NSA, FDA, FCC, SEC, DoE, DoT, DoD, Homeland Security, Senate, Congress, and the Federal Reserve? Do I even know 1/100th of what my government does for me? Does my vote to change the system even matter? All the things you couldn’t care less about as a kid suddenly begin to affect you and your friends.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>The Options</h2>
 
@@ -94,10 +82,7 @@
 
 <p>Most importantly, because a second option to emigration exists: <strong>change</strong>. Which is why I worry that I, like many of my generation, don’t seem to care about the old, political mechanisms of change. But this is a topic for another time.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Conclusion</h2>
 
@@ -107,19 +92,13 @@
 
 <p>Do I have a choice? Do <em>you</em> have a choice?</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Thanks</h2>
 
 <p>Thank you to Nick Duckwiler, Noorissa Khoja, and Radhika Chouhan for reading drafts of this essay, sharing different perspectives, and providing extremely helpful feedback.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Footnotes</h2>
 

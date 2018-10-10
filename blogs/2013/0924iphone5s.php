@@ -29,10 +29,7 @@
 
 <p>So with this in mind, I’d like to evaluate the new hardware and software features. I will try to keep my analysis as unbiased and objective as possible. I’ll evaluate on a 0-5 scale, with 0 being “Useless” and 5 being “This Could Be Life Changing”.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>The New 5s Hardware</h2>
 
@@ -46,10 +43,7 @@
 
 <p><strong><em>Total HARDWARE score: 6 out of 20</em></strong></p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>The New iOS7 Software</h2>
 
@@ -71,10 +65,7 @@
 
 <p><strong><em>Total SOFTWARE score: 13 out of 55.</em></strong></p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Summary</h2>
 

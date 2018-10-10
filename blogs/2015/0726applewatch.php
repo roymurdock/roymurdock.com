@@ -27,10 +27,7 @@
 
 <p>While sales of the iPhone and the Apple Watch will not match up 1:1,<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> the ratio will still be high enough for Apple to make a decently profitable side business out of selling watches to a growing subset of consumers who will find some set of tenuous and borderline-indescribable reasons to purchase one.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Apple Watch Financial Estimates</h2>
 
@@ -42,10 +39,7 @@
 
 <p>Most analysts have deduced around $1bn in revenue and 2-3m in unit sales based from these numbers. This is not the definition of a failed product. It’s also not the definition of a success, given Apple’s record-breaking standards and $710bn market cap.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>First Generation Is Not the Problem</h2>
 
@@ -75,10 +69,7 @@
 
 <p>The Apple Watch is a glorified fitness tracker<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> that obviates the need to take your phone out of your pocket to check notifications.<sup id="fnref:6"><a href="#fn:6" rel="footnote">6</a></sup> Its secondary function is a marker of status, but there are plenty of other things you could buy to signal wealth to potential mates.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Conclusion</h2>
 
@@ -88,10 +79,7 @@
 
 <p>The smartwatch form factor is not revolutionary and does not enable a large potential market for uses. The FGE argument is not compelling due to the lack of different inputs and outputs made possible by the device, which will narrowly constrain the app market.<sup id="fnref:7"><a href="#fn:7" rel="footnote">7</a></sup> Apple doesn’t care, and will make a tidy profit from the product as a function of increasing iPhone sales while sacrificing a bit of its reputation as a cutting-edge innovator that only ships revolutionary new form factors, “Steve Jobs would be ashamed!”, etc. etc. A worthy tradeoff for investors at the end of the day, with iPhone sales growing 80% YoY in China, and no slowdown in sight.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Footnotes</h2>
 <div class="footnotes">

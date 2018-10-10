@@ -18,6 +18,19 @@
 
         <ul class="grid cs-style-3">
             <li class="masonry-tile">
+                <a href="2018-10-joshuatree/2018-10-joshuatree.html">
+                    <figure>
+                        <img src="thumbcache/2018-10-3-cache.jpg" width="228" height="228">
+                        <figcaption>
+                            <h3>2018-10-joshuatree</h3>
+                            <span>8</span>
+                        </figcaption>
+                    </figure>
+                </a>
+            </li>
+
+        <ul class="grid cs-style-3">
+            <li class="masonry-tile">
                 <a href="2017-12-norway/2017-12-norway.html">
                     <figure>
                         <img src="thumbcache/2017-12-5-cache.jpg" width="228" height="228">

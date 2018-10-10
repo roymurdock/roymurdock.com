@@ -52,19 +52,13 @@
 <li>Look at the different strategies Snapchat might use to extract money from its users. <strong>How</strong> are they going to monetize their service? Is monetization even possible?</li>
 </ol>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Snapchat Summarized</h2>
 
 <p>Snapchat is an application that allows a user to take a photo, draw on it and/or add a caption, then send it to his or her friends. The taker also gets to choose a lifespan for the image; it is displayed for anywhere from 1-10 seconds, after which it is no longer viewable by the receiver (unless the receiver takes a screenshot). The “Snap” is deleted from Snapchat’s servers after it is opened.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Why do people use Snapchat?</h2>
 
@@ -109,10 +103,7 @@ R: You’re right, I don’t understand.</p></blockquote>
 
 <p>To summarize: Snapchat is just a quicker, easier way to be creative and goofy with your friends. There’s no pressure to create a picture that will be universally enjoyed on a larger social media network. Snapchat lets you be your weird, goofy self for a couple of seconds every day, and it feels pretty good.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Who uses Snapchat? How much do they use it?</h2>
 
@@ -124,11 +115,7 @@ R: You’re right, I don’t understand.</p></blockquote>
 <li>350m snaps sent a day (compare this to <a href="http://instagram.com/press/">55m on Instagram</a> and <a href="http://techcrunch.com/2013/05/29/snapchat-accounts-for-more-photo-shares-than-instagram-as-pic-sharing-set-to-double-in-2013/">400m photos shared on Facebook</a>)</li>
 </ul>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
-
+<hr>
 
 <h2>What is driving Snapchat’s Value?</h2>
 
@@ -141,7 +128,6 @@ R: You’re right, I don’t understand.</p></blockquote>
 <li>Patents/Tech Processes</li>
 <li>Threat to Established Companies</li>
 </ol>
-
 
 <p>I’ll rate these sources of value as objectively as possible on a scale from 0-5 so we can get a better sense of the actual value behind the company.</p>
 
@@ -193,10 +179,7 @@ R: You’re right, I don’t understand.</p></blockquote>
 
 <p>Snapchat’s willingness to be acquired seems to be very low given its large emphasis on long-term investment and vision. This is a change from October 2012, when <a href="http://en.wikipedia.org/wiki/Snapchat#Business">Snapchat full out stated that it was unwilling to be acquired</a>. Spiegel’s delusions of grandeur regarding the “different direction” Snapchat is headed in smell of an inflated ego and rotten revenue streams - which brings us to our next and arguably most pertinent question: How is Snapchat going to make any money?</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Monetization Strategies</h2>
 
@@ -238,8 +221,7 @@ R: You’re right, I don’t understand.</p></blockquote>
 
 </div></div>
 
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>In Summary</h2>
 

@@ -35,10 +35,7 @@
 
 <p>Still, that doesn’t sit perfectly well with me. I think there's a bit more to the hedge fund craze.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Random Walk &amp; Strong Form Efficiency</h2>
 
@@ -56,10 +53,7 @@
 
 <p>The only way to reconcile these hypotheses with the continued, and in recent months, increasingly feverish hunt for hedge fund <strong>alpha</strong> (a fancy finance term for above-market profit) is through differences in information – what many would consider “insider trading”. In an efficient market, funds that consistently outperform the market are either 1 in a million lucky (how do you choose this firm as an investor? you can’t), or they trade on information that others do not have access to.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Informational Asymmetry</h2>
 
@@ -90,10 +84,7 @@ Finally, just to clarify, insider trading is often misunderstood. A violation de
 
 <p>I’m also not arguing the legality of trading on insider information either. The laws are notoriously unclear, hard to enforce, and subsequently broken because information is harder to track than money, blood, and drugs. At the end of the day I would appeal to an ethical duty not to impoverish one’s fellow man and rend the fabric of the society that brought one up, rather than the flimsy and unenforceable definitions set forth in the legal code.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Popularity of Hedge Funds as a Proxy for Market Sentiment</h2>
 
@@ -105,10 +96,7 @@ Finally, just to clarify, insider trading is often misunderstood. A violation de
 
 <p>Let’s look at an example: In 2008, hedge funds returned -18.3%, compared to the S&amp;P’s abysmal return of -37% due to the financial crisis.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> That was the last time hedge funds, on average, have outperformed the market – 7 years ago.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Conclusion</h2>
 
@@ -119,10 +107,7 @@ Finally, just to clarify, insider trading is often misunderstood. A violation de
 <li>Institutional investors want to put money into an investment vehicle that has the reputation for being super-actively managed by financial gurus because they intuit a looming financial precipice behind the nebulous activity of the strange and “unique” stock market that is propped up by an increasingly tense global economy.</li>
 </ol>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Rebuttal</h2>
 
@@ -153,10 +138,7 @@ When people like the author of this article ask "why are hedge funds still aroun
 
 <p>TL;DR: If you use the S&P 500 as a proxy against which to measure "hedge funds," you're an idiot.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Footnotes</h2>
 <div class="footnotes">

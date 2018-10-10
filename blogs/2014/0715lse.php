@@ -32,10 +32,7 @@
 
 <p>For these reasons, I believe the UK system of grading to be more effective than the US system, leading to a higher quality of education and a more valuable degree.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Structural Differences</h2>
 
@@ -51,10 +48,7 @@
 
 <p>These are the objective differences. Lets get on with the subjective analysis.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>1. Dumb Luck</h2>
 
@@ -118,10 +112,7 @@
 
 <p>As inequality (the <a href="http://www.pbs.org/newshour/rundown/obama-set-to-speak-on-income-gap-between-rich-and-poor/">defining challenge of our time</a>) grows, <a href="http://web.stanford.edu/group/scspi/_media/working_papers/mitnik-cumberworth-grusky_social-mobility-high-inequality.pdf">mobility between wealth brackets decreases</a>. As mobility decreases, the importance of luck (being born smart, good-looking, white, rich, in the USA) increases. Luck, or undiversifiable (systematic) risk should be accounted for, as it is in the UK system. We should not be misled into thinking that our success is purely a result of hard work and personal. It is, and will always be, a varying combination of effort and luck.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>2. Great Expectations</h2>
 
@@ -135,10 +126,7 @@
 
 <p>There is also the fringe case of the truncation in the distribution of grades in the US system. Nobody gets 100 at the LSE, so everyone's academic ability is represented within the distribution. Students who achieve a 4.0 GPA are not accurately distributed, as they are limited by an upper bound on the GPA. Therefore, it is impossible to recognize differences in excellence within this elite group of achievers. Of course, there are other lines in a resume, and this is an extremely fringe case, but it's worth noting nonetheless.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>3. No Cheating</h2>
 
@@ -159,10 +147,7 @@
 
 <p>Phones off and placed under the desk. Chaperoned trips to the bathroom. Evenly spaced desks. Labels removed from water bottles. Invigilators walking up and down the aisles. Essays and answers synthesized on the spot. 3 hours of pure intellectual struggle. Pens down at the end, no exceptions. Justice and a fair assessment.  One final grade. Very strict make-up policy. No room for cheating. Egalitarianism.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Summary</h2>
 
@@ -170,10 +155,7 @@
 
 <p>I believe that a structural reform away from the US towards the UK grading system could significantly reduce the problems of grade inflation, cheating, and the continuing devaluation of a college education, while reducing costs and encouraging higher achievement.</p>
 
-</div></div>
-
-<div id="content-container" class="module">
-<div id="content">
+<hr>
 
 <h2>Footnotes</h2>
 <div class="footnotes">
