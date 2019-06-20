@@ -13,20 +13,20 @@ a:hover, a:active { outline: 0; }
    ========================================================================== */
 
 @font-face {font-family: Equity; 
-  src: url('fonts/textregular.woff') format('woff'); }
+  src: url('../fonts/textregular.woff') format('woff'); }
 @font-face {font-family: Equity; font-weight: bold;
-  src: url('fonts/textbold.woff') format('woff'); }
+  src: url('../fonts/textbold.woff') format('woff'); }
 @font-face {font-family: Equity; font-style: italic;
-  src: url('fonts/textitalic.woff') format('woff'); }
+  src: url('../fonts/textitalic.woff') format('woff'); }
 @font-face {font-family: Equity; font-weight: bold; font-style: italic;
-  src: url('fonts/textbolditalic.woff') format('woff'); }
+  src: url('../fonts/textbolditalic.woff') format('woff'); }
 @font-face {font-family: EquityCaps; 
-  src: url('fonts/capsregular.woff') format('woff'); }
+  src: url('../fonts/capsregular.woff') format('woff'); }
 @font-face {font-family: EquityCaps; font-weight: bold;
-  src: url('fonts/capsbold.woff') format('woff'); }
+  src: url('../fonts/capsbold.woff') format('woff'); }
 
  @font-face {font-family: Lars-Mono; 
-  src: url('fonts/Lars-MonoWeb.woff') format('woff'); }
+  src: url('../fonts/Lars-MonoWeb.woff') format('woff'); }
 
 
 /* =============================================================================
@@ -35,10 +35,11 @@ a:hover, a:active { outline: 0; }
 
 body {
   background: white ;
-  font-size: 1em ;
-  font-family: Lars-Mono ;
-  line-height: 1.5em ;
-  color: black ;
+  font-size: 0.85em ;
+  font-family: 'Lars-Mono', Courier, serif;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.3em ;
+  color: #424242 ;
 }
 
 footer {
@@ -63,19 +64,19 @@ div.module {
 
 h1 {
   line-height:1.2em ;
-  font-family:monospace ;
+  font-family: 'Equity' ;
   font-size:2em ;
 }
 
 h2 {
   line-height:1.2em ;
-  font-family:monospace ;
+  font-family: 'Equity' ;
   font-size:2em ;
 }
 
 h3 {
 	line-height:1.5em ;
-	font-family:monospace ;
+	font-family: 'Equity';
 	font-size:1.5em;
 }
 
@@ -233,7 +234,8 @@ td.gsc-search-button {
 }
 
 .grid figcaption h3 {
-    font-size: 1.4em;
+    font-family: 'Lars-Mono', Courier, serif;
+    font-size: 1.5em;
     margin: 0 0 0 0;
     padding: 0;
     color: #fff;
