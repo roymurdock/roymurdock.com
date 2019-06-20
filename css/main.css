@@ -20,11 +20,14 @@ a:hover, a:active { outline: 0; }
   src: url('fonts/textitalic.woff') format('woff'); }
 @font-face {font-family: Equity; font-weight: bold; font-style: italic;
   src: url('fonts/textbolditalic.woff') format('woff'); }
-
 @font-face {font-family: EquityCaps; 
   src: url('fonts/capsregular.woff') format('woff'); }
 @font-face {font-family: EquityCaps; font-weight: bold;
   src: url('fonts/capsbold.woff') format('woff'); }
+
+ @font-face {font-family: Lars-Mono; 
+  src: url('fonts/Lars-MonoWeb.woff') format('woff'); }
+
 
 /* =============================================================================
    Spacing
@@ -32,10 +35,10 @@ a:hover, a:active { outline: 0; }
 
 body {
   background: white ;
-  font-size: 1.1em;
-  font-family: monospace;
-  line-height: 1.5em;
-  color: #333333;
+  font-size: 1em ;
+  font-family: Lars-Mono ;
+  line-height: 1.5em ;
+  color: black ;
 }
 
 footer {
@@ -58,44 +61,49 @@ div.module {
   padding-right: 2em ;
 }
 
-h1,h2 {
-  line-height:1.2em;
+h1 {
+  line-height:1.2em ;
+  font-family:monospace ;
+  font-size:2em ;
 }
 
 h2 {
-  font-family: EquityCaps;
+  line-height:1.2em ;
+  font-family:monospace ;
+  font-size:2em ;
 }
 
 h3 {
-	line-height:1em;
-	font-family: EquityCaps;
+	line-height:1.5em ;
+	font-family:monospace ;
+	font-size:1.5em;
 }
 
 li {
-  margin-top: 0.2em;
-  margin-bottom: 0.4em; 
+  margin-top: 0.2em ;
+  margin-bottom: 0.4em ; 
 }
 
 blockquote {
-  color: gray;
-  font-style: italic;
-  border-left: 1px solid gray;
-  padding-left: 10px;
-  margin-left: 40px;
+  color: gray ;
+  font-style: italic ;
+  border-left: 1px solid gray ;
+  padding-left: 10px ;
+  margin-left: 40px ;
 }
 
 sup{
-  line-height: 0px;
+  line-height: 0px ;
 }
 
 img{
-  display: block;
-  margin: 0 auto;
-  max-width: 720px;
+  display: block ;
+  margin: 0 auto ;
+  max-width: 720px ;
 }
 
 img.top{
-  padding-top: 0em;
+  padding-top: 0em ;
 }
 
 p.pnumber {
@@ -225,8 +233,8 @@ td.gsc-search-button {
 }
 
 .grid figcaption h3 {
-    font-size: 1em;
-    margin: 0 0 7px 0;
+    font-size: 1.4em;
+    margin: 0 0 0 0;
     padding: 0;
     color: #fff;
     white-space: nowrap;

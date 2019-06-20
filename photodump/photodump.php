@@ -18,7 +18,7 @@
 
     	<ul class="grid cs-style-3">
             <li class="masonry-tile">
-                <a href="2018-10-joshuatree/2018-10-joshuatree.html">
+                <a href="2018-10-joshuatree/2018-10-joshuatree.php">
                     <figure>
                         <img src="thumbcache/2018-10-3-cache.jpg" width="228" height="228">
                         <figcaption>
@@ -31,7 +31,7 @@
 
         <ul class="grid cs-style-3">
             <li class="masonry-tile">
-                <a href="2018-08-georgia/2018-08-georgia.html">
+                <a href="2018-08-georgia/2018-08-georgia.php">
                     <figure>
                         <img src="thumbcache/2018-08-8-cache.jpg" width="228" height="228">
                         <figcaption>
@@ -44,7 +44,7 @@
 
         <ul class="grid cs-style-3">
             <li class="masonry-tile">
-                <a href="2017-12-norway/2017-12-norway.html">
+                <a href="2017-12-norway/2017-12-norway.php">
                     <figure>
                         <img src="thumbcache/2017-12-5-cache.jpg" width="228" height="228">
                         <figcaption>
@@ -57,7 +57,7 @@
 
         <ul class="grid cs-style-3">
             <li class="masonry-tile">
-                <a href="2015-12-acadia/2015-12-acadia.html">
+                <a href="2015-12-acadia/2015-12-acadia.php">
                     <figure>
                         <img src="thumbcache/2015-12-7-cache.jpg" width="228" height="228">
                         <figcaption>
@@ -70,11 +70,11 @@
 
         <ul class="grid cs-style-3">
             <li class="masonry-tile">
-                <a href="2014-06-jordan/2014-06-jordan.html">
+                <a href="2014-06-jordan/2014-06-jordan.php">
                     <figure>
                         <img src="thumbcache/2014-06-3-cache.jpg" width="228" height="228">
                         <figcaption>
-                            <h3>2014-06-jordan/lebanon/afghanistan</h3>
+                            <h3>2014-06-jordan</h3>
                             <span>11</span>
                         </figcaption>
                     </figure>
@@ -83,11 +83,11 @@
 
         <ul class="grid cs-style-3">
             <li class="masonry-tile">
-                <a href="2015-07-london/2015-07-london.html">
+                <a href="2015-07-london/2015-07-london.php">
                     <figure>
                         <img src="thumbcache/2015-07-5-cache.jpg" width="228" height="228">
                         <figcaption>
-                            <h3>2013/14-uk</h3>
+                            <h3>2014-uk</h3>
                             <span>8</span>
                         </figcaption>
                     </figure>
