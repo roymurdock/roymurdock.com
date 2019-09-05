@@ -21,3 +21,5 @@
 <script type="text/javascript" src="/js/featherlight.min.js"></script>
 
 <script type="text/javascript" src="/js/featherlight.gallery.min.js"></script>
+
+<script type="text/javascript" src="/js/modal.js"></script>

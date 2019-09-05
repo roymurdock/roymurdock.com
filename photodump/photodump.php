@@ -16,6 +16,19 @@
 
     <div id="container" class="js-masonry" data-masonry-options='{ "columnWidth": 240, "itemSelector": ".masonry-tile"}'>
 
+    <ul class="grid cs-style-3">
+            <li class="masonry-tile">
+                <a href="2019-07-ventana/2019-07-ventana.php">
+                    <figure>
+                        <img src="thumbcache/2019-07-6-cache.jpg" width="228" height="228">
+                        <figcaption>
+                            <h3>2019-07-ventana</h3>
+                            <span>7</span>
+                        </figcaption>
+                    </figure>
+                </a>
+            </li>
+
     	<ul class="grid cs-style-3">
             <li class="masonry-tile">
                 <a href="2018-10-joshuatree/2018-10-joshuatree.php">
@@ -50,6 +63,19 @@
                         <figcaption>
                             <h3>2017-12-norway</h3>
                             <span>8</span>
+                        </figcaption>
+                    </figure>
+                </a>
+            </li>
+
+        <ul class="grid cs-style-3">
+            <li class="masonry-tile">
+                <a href="2016-07-quetico/2016-07-quetico.php">
+                    <figure>
+                        <img src="thumbcache/2016-07-4-cache.jpg" width="228" height="228">
+                        <figcaption>
+                            <h3>2016-07-quetico</h3>
+                            <span>15</span>
                         </figcaption>
                     </figure>
                 </a>

@@ -13,7 +13,7 @@
 
 <!-- Content -->
 
-<p> Roy Murdock is a writer and adventurer. </p>
+<p> Roy Murdock is a writer and adventurer. This blog covers topics ranging from economics to technology to camping/backpacking. </p>
 
 <p><a href="mailto:roy@roymurdock.com">Contact</a></p>
 

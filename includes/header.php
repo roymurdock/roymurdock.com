@@ -18,23 +18,14 @@
 
 <!-- Title-->
 <div id="header">
-  <span id="name"><a href="/" style="color:#333333">roy murdock</a><img class="top" src="/gifs/search.gif" style="float:right;width:42px;length:43px;" /></span>
+  <span id="name"><a href="/" style="color:white">roy murdock</a><img class="top" src="/gifs/search.gif" style="float:right;width:42px;length:43px;" /></span>
 </div>
 
 <!-- Nav -->
 <p><a href="/index.php">[blog index]</a>&nbsp;<a href="/photodump/photodump.php">[photo index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.php">[about]</a>&nbsp;<a href="/quotes/quotes.php">[quotes]</a>&nbsp;<a href="/otherstuff.php">[other]</a>
 
 <!-- Custom Google Search Bar -->
-<script>
-  (function() {
-    var cx = '007309113690805798785:7dqa1uotvws';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
+<script async src="https://cse.google.com/cse.js?cx=007309113690805798785:7dqa1uotvws"></script>
+<div class="gcse-search"></div>
+
 <hr>
