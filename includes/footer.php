@@ -1,6 +1,6 @@
 <!-- Nav -->
 <p>
-<p><a href="/index.php">[blog index]</a>&nbsp;<a href="/photodump/photodump.php">[photo index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.php">[about]</a>&nbsp;<a href="/quotes/quotes.php">[quotes]</a>&nbsp;<a href="/otherstuff.php">[other]</a><a href="http://www.arcadespot.com/game/metal-slug-2/">
+<p><p><a href="/index.php">[blog]</a>&nbsp;<a href="/photodump/photodump.php">[photos]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.php">[about/contact]</a>&nbsp;<a href="/quotes/quotes.php">[quotes]</a>&nbsp;<a href="/otherstuff.php">[other]</a><a href="http://www.arcadespot.com/game/metal-slug-2/">
 <img class="top" src="/gifs/camping.gif" style="float:right;width:100px;length:48px;" /></a>
 <br>
 © Roy Murdock, All rights reserved.

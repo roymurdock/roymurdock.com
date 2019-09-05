@@ -22,7 +22,7 @@
 </div>
 
 <!-- Nav -->
-<p><a href="/index.php">[blog index]</a>&nbsp;<a href="/photodump/photodump.php">[photo index]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.php">[about]</a>&nbsp;<a href="/quotes/quotes.php">[quotes]</a>&nbsp;<a href="/otherstuff.php">[other]</a>
+<p><a href="/index.php">[blog]</a>&nbsp;<a href="/photodump/photodump.php">[photos]</a>&nbsp;<a href="javascript:go()">[random post]</a>&nbsp;<a href="/about/about.php">[about/contact]</a>&nbsp;<a href="/quotes/quotes.php">[quotes]</a>&nbsp;<a href="/otherstuff.php">[other]</a>
 
 <!-- Custom Google Search Bar -->
 <script async src="https://cse.google.com/cse.js?cx=007309113690805798785:7dqa1uotvws"></script>
